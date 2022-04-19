@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = NaderK_Assign1
+build_property.ProjectDir = C:\Users\nader\Documents\School\Winter 2022\Programming - 1175-003\Assignments\NaderK_Assign1\NaderK_Assign1\NaderK_Assign1\
